@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Database files
+*.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
